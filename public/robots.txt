@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahuang9203.github.io/ash-huang/sitemap.xml
