@@ -1,0 +1,6 @@
+{
+  "name": "Platform Capability Explorer",
+  "description": "Comprehensive comparison and interactive demonstration of Google AI Studio Build versus standard Gemini chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
